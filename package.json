@@ -1,0 +1,23 @@
+{
+  "name": "poetry-api",
+  "version": "1.0.0",
+  "description": "My personal poetry",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jehubx/poetry-api.git"
+  },
+  "author": "King Obasuyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jehubx/poetry-api/issues"
+  },
+  "homepage": "https://github.com/Jehubx/poetry-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
